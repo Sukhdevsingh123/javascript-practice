@@ -1,7 +1,7 @@
 const str=['applre','cati','rabbit','horse','elephant']
 
 const lowest=str.reduce((lowestString,currString)=>{
-    // if(lowestString.length>currString.length){
+    if(lowestString.length>currString.length){
         return currString;
     }
     else{
