@@ -56,13 +56,6 @@ console.log('b', bln) //2
         // Invalid left-hand side expression in postfix operation
 
 
-
-
-
-
-
-
-
 //    ...................question 1................... 
 var x = 1;
 console.log(x); //1
