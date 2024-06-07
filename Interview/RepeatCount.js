@@ -18,3 +18,7 @@ let duplicate=Object.keys(obj).filter((char)=>{
     return obj[char]<=2;
 })
 console.log(duplicate);
+
+o/p:-
+(12) ['j', 'v', 'c', 'p', 'g', 'm', 'u', 'b', 'l', 'h', 'o', 'd']
+
